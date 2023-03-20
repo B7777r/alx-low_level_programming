@@ -2,9 +2,9 @@
 
 
 /**
- * main -prints the size of various types using sizeof
+ * main - A program that prints the size of various computer
  * Return: 0
-*/
+ */
 
 int main(void)
 {
