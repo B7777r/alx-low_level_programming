@@ -2,10 +2,6 @@
 #include <stdlib.h>
 
 /**
-#include <stdio.h>
-#include <stdlib.h>
-
-/**
  * main - adds positive numbers.
  * @argc: argument count
  * @argv: arguments
